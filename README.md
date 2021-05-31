@@ -1,6 +1,8 @@
 # css-animations-and-transitions
 Code examples and resources from [*Steven Bradley's CSS Animations and Transitions for the Modern Web*](https://www.peachpit.com/store/css-animations-and-transitions-for-the-modern-web-9780133980509?w_ptgrevartcl=Transition+or+Animation%3a+Which+One+Should+You+Use%3f_2300569) book.
 
+# Code Examples #
+
 ## Chapter 2 ##
 
 * [*Example 2.1 - 2D Rotation*](https://jellypuff.github.io/css-animations-and-transitions/CH02Examples/example%202.1%20rotation%202d.html)
@@ -67,9 +69,36 @@ Code examples and resources from [*Steven Bradley's CSS Animations and Transitio
 * [*Example 6.8 - Content Slider*](https://jellypuff.github.io/css-animations-and-transitions/CH06Examples/example-6.8-content-slider.html)
 
 
-
-## Related Articles: ##
+# Related Articles: #
 * [**12 Principles to Create Realistic Animation the Disney Way**](https://www.peachpit.com/articles/article.aspx?p=2270973)
   * [*THE ILLUSION OF LIFE on tumblr*](https://the12principles.tumblr.com/)
   * [*The illusion of life on Vimeo*](https://vimeo.com/93206523)
 * [**Transition or Animation: Which One Should You Use?**](https://www.peachpit.com/articles/article.aspx?p=2300569)
+
+
+# Text Editors #
+
+### Universal ###
+* Brackets: http://brackets.io 
+* jEdit: www.jedit.org 
+* Komodo Edit: http://komodoide.com/komodo-edit 
+* KompoZer: http://kompozer.net 
+* Sublime Text: www.sublimetext.com (free if you don’t mind a little nagging) 
+* Aptana Studio: www.aptana.com/products/studio3 
+* Eclipse: www.eclipse.org 
+* Emacs: www.gnu.org/software/emacs 
+* Vim: www.vim.org 
+* Bluefish: http://bluefish.openoffice.nl/index.html 
+
+### OS X ###
+* Text Wrangler: www.barebones.com/products/textwrangler 
+* SubEthaEdit: www.codingmonkeys.de/subethaedit 
+ 
+### Windows ###
+* Notepad++: http://notepad-plus-plus.org 
+* EditPad Lite: www.editpadlite.com 
+* HTMLKit: www.chami.com/html-kit
+ 
+### Linux ###
+* Gedit: https://wiki.gnome.org/Apps/Gedit
+* Kate: http://kate-editor.org
