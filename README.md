@@ -79,6 +79,7 @@ Code examples and resources from [*Steven Bradley's CSS Animations and Transitio
 # Text Editors #
 
 ### Universal ###
+* **Visual Studio Code: https://code.visualstudio.com/**
 * Brackets: http://brackets.io 
 * jEdit: www.jedit.org 
 * Komodo Edit: http://komodoide.com/komodo-edit 
